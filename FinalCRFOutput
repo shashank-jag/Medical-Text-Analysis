@@ -1,0 +1,47 @@
+==> temp_dosage <==
+Number of Correctly predicted terms (Strict) 834
+Number of Correctly predicted terms (Relaxed) 1077
+Total number of predicted terms 1442
+Total number of terms in gold 1177
+Relaxed:    Precision:0.746879334257975  Recall :0.9150382327952421 Fmeasure :0.8224513172966781
+Strict :    Precision:0.5783633841886269  Recall :0.7085811384876806 Fmeasure :0.6368843069873997
+
+==> temp_duration <==
+Number of Correctly predicted terms (Strict) 1
+Number of Correctly predicted terms (Relaxed) 52
+Total number of predicted terms 306
+Total number of terms in gold 135
+Relaxed:    Precision:0.16993464052287582  Recall :0.3851851851851852 Fmeasure :0.235827664399093
+Strict :    Precision:0.0032679738562091504  Recall :0.007407407407407408 Fmeasure :0.0045351473922902496
+
+==> temp_frequency <==
+Number of Correctly predicted terms (Strict) 456
+Number of Correctly predicted terms (Relaxed) 647
+Total number of predicted terms 938
+Total number of terms in gold 1098
+Relaxed:    Precision:0.6897654584221748  Recall :0.5892531876138434 Fmeasure :0.6355599214145383
+Strict :    Precision:0.4861407249466951  Recall :0.41530054644808745 Fmeasure :0.4479371316306483
+
+==> temp_medication <==
+Number of Correctly predicted terms (Strict) 1404
+Number of Correctly predicted terms (Relaxed) 1873
+Total number of predicted terms 2391
+Total number of terms in gold 2192
+Relaxed:    Precision:0.7833542450857381  Recall :0.854470802919708 Fmeasure :0.8173685358935195
+Strict :    Precision:0.5872020075282308  Recall :0.6405109489051095 Fmeasure :0.6126991053894828
+
+==> temp_mode <==
+Number of Correctly predicted terms (Strict) 534
+Number of Correctly predicted terms (Relaxed) 543
+Total number of predicted terms 614
+Total number of terms in gold 851
+Relaxed:    Precision:0.8843648208469055  Recall :0.6380728554641598 Fmeasure :0.7412969283276449
+Strict :    Precision:0.8697068403908795  Recall :0.627497062279671 Fmeasure :0.7290102389078498
+
+==> temp_reason <==
+Number of Correctly predicted terms (Strict) 48
+Number of Correctly predicted terms (Relaxed) 66
+Total number of predicted terms 309
+Total number of terms in gold 342
+Relaxed:    Precision:0.21359223300970873  Recall :0.19298245614035087 Fmeasure :0.20276497695852536
+Strict :    Precision:0.1553398058252427  Recall :0.14035087719298245 Fmeasure :0.14746543778801843
